@@ -3,15 +3,15 @@
 #include <ESP_Mail_Client.h>
 #include <DHT.h>
 
-#define WIFI_SSID "Galaxy M14 5G 17C4"
-#define WIFI_PASSWORD "royarghya@1507"
+#define WIFI_SSID "*********"
+#define WIFI_PASSWORD "********"
 
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 465
 
-#define AUTHOR_EMAIL "bubun15072006@gmail.com"
+#define AUTHOR_EMAIL "**********"
 #define AUTHOR_PASSWORD "jjml yrnn owpd chpt"
-#define RECIPIENT_EMAIL "roym20730@gmail.com"
+#define RECIPIENT_EMAIL "********"
 
 #define DHTPIN 21
 #define DHTTYPE DHT11
