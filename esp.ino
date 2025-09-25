@@ -10,7 +10,7 @@
 #define SMTP_PORT 465
 
 #define AUTHOR_EMAIL "**********"
-#define AUTHOR_PASSWORD "jjml yrnn owpd chpt"
+#define AUTHOR_PASSWORD "**** **** ****"
 #define RECIPIENT_EMAIL "********"
 
 #define DHTPIN 21
