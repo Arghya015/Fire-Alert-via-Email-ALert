@@ -6,7 +6,7 @@
 #define WIFI_PASSWORD "********"
 
 #define SMTP_HOST "smtp.gmail.com"
-#define SMTP_PORT 465
+#define SMTP_PORT @@@
 
 #define AUTHOR_EMAIL "**********"
 #define AUTHOR_PASSWORD "**** **** ****"
